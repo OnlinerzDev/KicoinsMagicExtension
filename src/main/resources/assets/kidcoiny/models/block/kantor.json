@@ -1,0 +1,9 @@
+{
+  "parent": "kidcoiny:custom/kantorkidowice",
+  "textures": {
+    "all": "kidcoiny:blocks/fioletbankomat",
+    "particle": "kidcoiny:blocks/fioletbankomat",
+    "1": "kidcoiny:blocks/fioletbankomat"
+  },
+  "render_type": "solid"
+}

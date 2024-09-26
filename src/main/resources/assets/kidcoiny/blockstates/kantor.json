@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kidcoiny:block/kantor"
+    },
+    "facing=east": {
+      "model": "kidcoiny:block/kantor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kidcoiny:block/kantor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kidcoiny:block/kantor",
+      "y": 270
+    }
+  }
+}

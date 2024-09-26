@@ -1,0 +1,9 @@
+{
+  "parent": "kidcoiny:custom/kasa3",
+  "textures": {
+    "all": "kidcoiny:blocks/kasa3",
+    "particle": "kidcoiny:blocks/kasa3",
+    "1": "kidcoiny:blocks/kasa3"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kidcoiny:block/kasaa"
+    },
+    "facing=east": {
+      "model": "kidcoiny:block/kasaa",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kidcoiny:block/kasaa",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kidcoiny:block/kasaa",
+      "y": 270
+    }
+  }
+}
